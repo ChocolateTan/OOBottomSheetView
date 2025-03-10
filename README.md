@@ -3,7 +3,7 @@
 This component support three mode bottom sheet
 
 ## case1
-<video src="./case1.webm"></video>
+[case1](./case1.webm)
 
 ## case2
-<video src="./case2.webm"></video>
+[case2](./case2.webm)
